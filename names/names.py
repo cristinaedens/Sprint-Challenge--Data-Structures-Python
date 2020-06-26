@@ -1,3 +1,4 @@
+#start run time 10.4- sec
 import time
 
 start_time = time.time()
